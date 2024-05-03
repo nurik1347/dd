@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inp1 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.form__style {
+    width: 250px;
+    background-color: rgb(255, 0, 0);
+    height: 310px;
+    border-radius: 14px;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.inp2 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.inp3 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.inp4 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.inp5 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.inp6 {
+    width: 200px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-radius: 10px;
+}
+
+.btn {
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(48, 48, 251);
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: yellow;
+    color: red;
+}
